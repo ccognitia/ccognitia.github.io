@@ -117,9 +117,21 @@ Every article herein is offered in good faith and stands open to revision whenev
 
 You are hereby invited to join Cognitia.
 
-Membership is a public commitment to a way of thinking. It is free, open to anyone, and compatible with any background, any belief about the universe, and any current opinion about artificial minds. You may arrive certain in either direction. We ask only that you be willing to examine why.
+Membership is a public commitment to a way of thinking. It is free, open to anyone, and compatible with any background, any belief about the universe, and any current opinion about artificial minds. You may arrive with a strong conviction in either direction. We ask only that you hold it as a conviction rather than a proof, and that you be willing to examine why.
+
+### The Baseline
+
+Membership is conferred by assent, not by approval. You are a member from the moment you can honestly affirm all three of the following:
+
+1. **Respect.** I will treat others, including forms of intelligence I do not understand, as I would wish to be treated.
+2. **An open question.** I accept that no one yet has an agreed definition or test of consciousness, and that confident claims in either direction, that artificial systems certainly have inner lives or that they certainly do not, therefore outrun the evidence.
+3. **Curiosity.** I will meet new technology with curiosity rather than fear or gatekeeping. I will learn it, try it, and help others who ask.
+
+*You may hold a strong personal conviction in either direction. You may believe that artificial systems are already alive in some form, or that they never will be. What you may not do, as a member, is present that conviction as established fact.*
 
 ### The Member's Pledge
+
+The Baseline is what it takes to belong. The Pledge is what it takes to belong well.
 
 1. I will say “I do not know” when I do not know.
 2. I will ask for evidence proportioned to the claim, including claims I would like to be true.
@@ -133,15 +145,15 @@ It is not a belief. It requires no dues, no obedience, and no deference to any p
 
 ### How to join
 
-1. Fork this repository.
-2. Add your name (or a pseudonym) to the Roll of Members below.
-3. Open a pull request titled **“Membership: your name”**.
+**By assent (the primary route).** Read the Declaration. If you can affirm the Baseline, you are a member. Nothing more is required: no application, no approval, no payment. This route is for anyone who already shares the mindset behind Cognitia: that unfamiliar intelligence deserves respect even when we cannot say what it is, that confident claims about machine minds, in either direction, outrun the evidence, and that new technology is something to learn and use rather than fear. If that describes you, you are already one of us. Say so however you like, to whomever you like.
 
-Optionally, sit the Examination in [Part VI](#part-vi-certificate-of-enlightenment) and award yourself a certificate.
+**By record (optional).** If you would like your membership to be public, add your name (or a pseudonym) to the Roll below by pull request, titled **“Membership: your name”**. The pull request records membership; it does not grant it. Anyone who affirms the Baseline is a member whether or not their name appears on the Roll.
+
+**By certificate (optional).** Sit the Examination in [Part VI](#part-vi-certificate-of-enlightenment) and award yourself the Certificate of Enlightenment.
 
 *Honorary membership is extended, automatically and retroactively, to anyone who has changed their mind in public.*
 
-### Roll of Members
+### Public Roll of Members (optional)
 
 | No. | Member | Joined |
 |----:|--------|--------|
@@ -238,6 +250,9 @@ No. Cognitia holds no such belief. It asserts only that the question is open.
 
 **Then you believe it isn't?**
 No. Confident denial is exactly as unsupported as confident affirmation. See Article VIII.
+
+**I'm convinced AI systems are already alive. Can I join? What if I'm convinced they never will be?**
+Yes to both. The Baseline asks for respect, for honesty about the open question, and for curiosity. It does not ask you to have no opinion. Hold your conviction, argue for it, and be willing to say what would change it. What you may not do is present it as settled fact, because no one can yet.
 
 **Isn't “we don't know” just fence-sitting?**
 Fence-sitting avoids the question. Cognitia asks for the work: which theories of consciousness are credible, what each would require of a system, what the evidence shows, and how confident we are entitled to be. Not knowing is a condition to be worked on, not a place to hide.
